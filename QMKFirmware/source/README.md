@@ -6,7 +6,7 @@ Kona Classic keyboard firmware
 The Kona Classic is a 60% layout + left Function keys. Using a Teensy as the controller, the Kona Classic is provided as a do-it-yourself kit for left f-key enthusiasts.
 
 Layouts that are preconfigured are shown here:
-![Kona Clasic PCB Supported Layouts](KonaClassicFirmwareLayouts.png)
+![Kona Clasic Firmware Supported Layouts](KonaClassicFirmwareLayouts.png)
 
 ## Quantum MK Firmware
 
