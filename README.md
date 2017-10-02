@@ -20,7 +20,7 @@ The Kona Classic is provided as a keyboard kit for left-side F Key enthusiasts w
 
 ## Flashing the firmware
 
-Because the Kona Classic uses a Teensy as the controller, the firmware it uses is [QMK](https://github.com/qmk/qmk_firmware). You can download pre-compiled firmware for your Kona Classic or compile it yourself.
+Because the Kona Classic uses a Teensy as the controller, the firmware it uses is [QMK](https://github.com/qmk/qmk_firmware). You can download [pre-compiled firmware](KonaClassic/QMKFirmware/) for your Kona Classic or compile it yourself [from source](KonaClassic/QMKFirmware/source/).
 
 ## Other resources
 
