@@ -18,6 +18,7 @@ The Kona Classic is provided as a keyboard kit for left-side F Key enthusiasts w
 7. It is recommended that you clip the header pins so that they don't protrude past the Teensy
 8. Optionally install RGB underglow strip by soldering the wires to the exposed pads near the PCB edge furthest from the Teensy - the strip can be cut to length and has an adhesive backing
 9. Re-assemble your case
+10. Flash the Teensy with the layout of your choosing and enjoy!
 
 I have also created a step-by-step [build log](https://imgur.com/a/D8GG9) if you'd like a visual guide.
 
