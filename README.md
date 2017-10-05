@@ -13,11 +13,13 @@ The Kona Classic is provided as a keyboard kit for left-side F Key enthusiasts w
 2. Install and solder diodes into the PCB - the cathode (the end with the line) goes into the square holes
 3. Install PCB mount stabilizers - depending on your layout, you will need 3-6 2u and up to 1 6.25u stabilizers
 4. Insert and solder the Teensy header pins with the shorter end through the PCB (but DO NOT solder the Teensy on yet!)
-5. Insert switches though the delrin switch plate and solder them into the PCB (delrin is very flexible, unlike acrylic, so you shouldn't have any issues with it breaking)
+5. Insert switches though the delrin switch plate and solder them into the PCB (delrin is very flexible, unlike acrylic, so you shouldn't have any issues with it breaking) - The switch for the ANSI backslash is upside-down by design
 6. Solder the Teensy onto the previously installed header pins (make sure the reset button is facing out)
-7. It is recommended that you clip the header pins so that theydon't protrude past the Teensy
+7. It is recommended that you clip the header pins so that they don't protrude past the Teensy
 8. Optionally install RGB underglow strip by soldering the wires to the exposed pads near the PCB edge furthest from the Teensy - the strip can be cut to length and has an adhesive backing
 9. Re-assemble your case
+
+I have also created a step-by-step [build log](https://imgur.com/a/D8GG9) if you'd like a visual guide.
 
 ## Flashing the firmware
 
