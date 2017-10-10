@@ -24,7 +24,7 @@ I have also created a step-by-step [build log](https://imgur.com/a/D8GG9) if you
 
 ## Flashing the firmware
 
-Because the Kona Classic uses a Teensy as the controller, the firmware it uses is [QMK](https://github.com/qmk/qmk_firmware). You can download [pre-compiled firmware](KonaClassic/QMKFirmware/) for your Kona Classic or compile it yourself [from source](KonaClassic/QMKFirmware/source/).
+Because the Kona Classic uses a Teensy as the controller, the firmware it uses is [QMK](https://github.com/qmk/qmk_firmware). You can download [pre-compiled firmware](QMKFirmware/) for your Kona Classic or compile it yourself [from source](https://github.com/DangerousParts/qmk_firmware).
 
 ## Other resources
 
