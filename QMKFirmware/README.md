@@ -9,6 +9,7 @@ Hardware Supported: Teensy 2.0
 Hardware Availability: Via GB
 
 You can download precompiled HEX files for the following layouts:
+
 Default:
 ![Default](layout_images/default.png)  
 
